@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Your genuine curiosity about the world.",
         "The way you look at me.",
         "Your sweet sleepy voice in the mornings.",
-        "Your passion for [mention a specific hobby/interest].",
+        "Your passion for Natak.",
         "The quiet moments we share that mean the most.",
         "Your ability to forgive and understand.",
         "The way you light up a room when you enter it.",
