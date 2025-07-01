@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Your ability to forgive and understand.",
         "The way you light up a room when you enter it.",
         "Your gentle touch that reassures me.",
-        "Your amazing cooking/baking skills.",
+        "Your amazing cooking skills (even though I haven't tasted it yet) .",
         "The confidence you inspire in me.",
         "Your honesty, even when it's tough to hear.",
         "Your patience and understanding.",
